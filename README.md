@@ -54,6 +54,8 @@ For more information, please visit [CocoaPods Getting Started guide](https://gui
 # Using npm
 npm run ios
 
+npx react-native run-android
+
 # OR using Yarn
 yarn ios
 ```
